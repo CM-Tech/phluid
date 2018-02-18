@@ -23,6 +23,6 @@ void draw() {
   pg.background(0);
   pg.rect(0,0,width,height);
   pg.endDraw();
-  image(pg, 0, 0); 
+  image(pg, 0, 0);
   time += 1;
 }
